@@ -1,2 +1,7 @@
-# diplomatiki-pv-maintenance
-Κώδικας διπλωματικής εργασίας: Προληπττική Συντήρηση Φωτοβολταϊκών με Τεχνητή Νοημοσύνη
+# diploma_thesis-pv-maintenance
+Code for diploma thesis: Preventive Maintenance of PVs Using AI
+
+
+
+
+
